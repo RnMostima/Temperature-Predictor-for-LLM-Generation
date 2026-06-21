@@ -1,0 +1,10 @@
+{
+  "encoder_model_dir": "C:\\Users\\89343\\Desktop\\tem\\model_cache/all-MiniLM-L6-v2",
+  "pooling": "mean",
+  "normalize_embeddings": true,
+  "use_fp16": "auto",
+  "model_path": "temp_predictor_model\\regressor.pt",
+  "target_min": 0.009999999776482582,
+  "target_max": 1.7999999523162842,
+  "best_val_mae": 0.27818593978881834
+}
